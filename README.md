@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swapnilmavani
 - 👀 I’m interested in learning new programming language.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning Python.
 
 <!---
 swapnilmavani/swapnilmavani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
